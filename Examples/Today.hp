@@ -1,0 +1,3 @@
+set today = @today ... Getting the current date
+chap "Today's date:"
+chap today
