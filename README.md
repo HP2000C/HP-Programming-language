@@ -313,3 +313,5 @@ HP برای سینتکس فینگیلیش ساخته شده و تمرکز آن �
 - حلقه با `Loop` و `Baraye`
 
 با همین قواعد می‌توان برنامه‌های کوتاه، خوانا و قابل‌گسترش نوشت.
+
+![CodeGIF](https://indoanalytica.com/static/images/bannerr.gif)
