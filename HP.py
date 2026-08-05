@@ -1,4 +1,4 @@
-# HP™ Programming language‌
+# HP™ Programming language
 
 import math
 import random as rnd
