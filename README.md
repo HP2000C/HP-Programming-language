@@ -1,13 +1,12 @@
-### 📌 Docs: [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/HP2000C/HP-Programming-Language)
+### 📌 Docs: [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/HP2000C/HP-Programming-Language) <img src="https://imglink.cc/cdn/gJwuYTIu4f.gif" width="20">
 <p align="center">
 <img src="https://img.shields.io/badge/Version-v1.0.0-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/License-GUN_GPL_v3.0-success?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Made_in-IR_IRAN-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Active-orange?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Syntax-Finglish-purple?style=for-the-badge" />
+<img src="https://imglink.cc/cdn/gJwuYTIu4f.gif" width="28">
 </p>
-
-![image](https://imglink.cc/cdn/gJwuYTIu4f.gif)
 
 ![HP Poster](Images/HPP.png)
 # ✅ زبان برنامه‌نویسی ™HP
