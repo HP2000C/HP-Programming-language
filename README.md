@@ -318,4 +318,8 @@ HP برای سینتکس فینگیلیش ساخته شده و تمرکز آن �
 
 با همین قواعد می‌توان برنامه‌های کوتاه، خوانا و قابل‌گسترش نوشت.
 
+## 🖼 لوگو:
+
+<img src="https://imglink.cc/cdn/HE4Fl4b-Gd.png" alt="image" />
+
 ![CodeGIF](https://indoanalytica.com/static/images/bannerr.gif)
