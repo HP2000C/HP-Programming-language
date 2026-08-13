@@ -7,6 +7,8 @@
 <img src="https://img.shields.io/badge/Syntax-Finglish-purple?style=for-the-badge" />
 </p>
 
+![image](https://imglink.cc/cdn/gJwuYTIu4f.gif)
+
 ![HP Poster](Images/HPP.png)
 # ✅ زبان برنامه‌نویسی ™HP
 ### 🧑🏻‍💻 زبان برنامه‌نویسی ™HP | زبانی با اصالت ایرانی که دارای سینتکس (ساختار دستوری) ساده و مبتنی بر «فینگلیش» (فارسی با حروف لاتین) است؛ این زبان توسط حسـین پ. توسعه یافته است. 🇮🇷✊🏻
