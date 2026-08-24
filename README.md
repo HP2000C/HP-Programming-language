@@ -1,4 +1,4 @@
-### 📌 مستندات: [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/HP2000C/HP-Programming-Language) <img src="https://imglink.cc/cdn/gJwuYTIu4f.gif" width="20">
+### 📌 Docs: [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/HP2000C/HP-Programming-Language) <img src="https://imglink.cc/cdn/gJwuYTIu4f.gif" width="20">
 <p align="center">
 <img src="https://img.shields.io/badge/Version-v1.0.0-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/License-GUN_GPL_v3.0-success?style=for-the-badge" />
@@ -9,68 +9,68 @@
 </p>
 
 ![HP Poster](Images/HPP.png)
-# ✅ زبان برنامه‌نویسی ™HP
-### 🧑🏻‍💻 زبان برنامه‌نویسی ™HP | زبانی با اصالت ایرانی که دارای سینتکس (ساختار دستوری) ساده و مبتنی بر «فینگلیش» (فارسی با حروف لاتین) است؛ این زبان توسط حسـین پ. توسعه یافته است. 🇮🇷✊🏻
+# ✅ HP™ Programming Language
+### 🧑🏻‍💻 HP™ Programming Language | A programming language with Iranian origin that has a simple syntax (grammatical structure) based on “Finglish” (Persian written with Latin letters); this language was developed by Hossein P. 😎🙂🇮🇷✊🏻
 #### ‼️ HP™ 2026 - 1405 ©
 
-## 🔍 نمونه کُد ساده
+## 🔍 Simple Code Example
 ```
 set name = "Hossein P."
 chap "Hello " + name
 ```
 
-## 📌 درباره
-یک زبان برنامه‌نویسی مدرن و کاربردی، آمده از جمهوری اسلامی ایران 🇮🇷✊🏻، توسط حسـین پ. 😎 برای استفاده تمام فارسی‌زبانان و ملت بزرگ ایران، و حتی تمامی مردمان جهان، در سال 2026...
+## 📌 About
+A modern and practical programming language, originating from the Islamic Republic of Iran 🇮🇷✊🏻, developed by Hossein P. 😎 for use by all Persian speakers and the great nation of Iran, and even all people of the world, in 2026...
 
-این زبان با طراحی سینتکسی ساده و فینگیلیش، توانسته‌است به یکی از ساده‌ترین زبان‌های برنامه‌نویسی جهان برای فارسی‌زبانان تبدیل شود تا همه بتوانیم به‌راحتی از این زبان برنامه‌نویسی جذاب و کاربردی استفاده نماییم!
+With its simple and Finglish syntax design, this language has managed to become one of the simplest programming languages in the world for Persian speakers, so that we can all easily use this attractive and practical programming language!
 
-> ✊🏻 امید است روزی این زبان برنامه‌نویسی، مورد استفاده تمامی جهانیان قرار گیرد...
+> ✊🏻 It is hoped that one day this programming language will be used by people all over the world...
 >
-> > **— 😎 حسـین پ.** | توسعه‌دهنده زبان برنامه‌نویسی HP
+> > **— 😎 Hossein P.** | Developer of the HP Programming Language
 
-## 📥 اجرا
-برای اجرا و استفاده از این زبان برنامه‌نویسی، باید ابتدا فایل `requirements.txt` را مشاهده و یا دانلود نمایید، و سپس لیست کتابخانه/کتابخانه‌های درون آن را بر روی محل اجرای کُد پایتون خود نصب نمایید. سپس فایل پایتونی `HP.py` را دانلود و یا محتوای آن را Copy نمایید، و آن را در محیطی که برای اجرای کُدهای پایتون طراحی شده‌است، ذخیره نمایید.
+## 📥 Execution
+To run and use this programming language, you must first view or download the `requirements.txt` file, and then install the library/libraries listed inside it in your Python code execution environment. Then download the Python file `HP.py` or Copy its contents, and save it in an environment designed for running Python code.
 
-در مرحله‌ی بعد، باید با توجه به دستور زبان، یک برنامه بنویسید و آن را با نام دلخواه و پسوند `.hp` در همان پوشه فایل اصلی (`HP.py`) ذخیره نمایید و به فایل اصلی بروید و فایل اصلی را اجرا نمایید.
+In the next step, according to the syntax, write a program and save it with your desired name and the `.hp` extension in the same folder as the main file (`HP.py`), then go to the main file and run it.
 
-حالا باید نام فایلی که ذخیره کرده‌اید را به همراه پسوند مورد نظر وارد نمایید، تا فایل شما اجرا شود و به راحتی از این زبان برنامه‌نویسی استفاده نمایید...!
+Now you should enter the name of the file you saved along with its extension, so that your file will run and you can easily use this programming language...!
 
-‼️می‌توانید از هرکدام از فایل‌های نسخه‌های BETA هم استفاده نمایید، (مثل C (Cython) و JavaScript و Ruby) ولی هیچ مسئولیتی از جمله کار نکردن نسخه‌های BETA و... برای توسعه‌دهنده نیست و لطفا در صورت وجود مشکل آن را به ما بگویید... (از طریق `Gmail Support.md` یا Issues یا...)
+‼️You can also use any of the BETA version files, (such as C (Cython), JavaScript, and Ruby), but the developer assumes no responsibility whatsoever, including if the BETA versions do not work, etc., and please tell us if there is a problem... (through `Gmail Support.md` or Issues or...)
 
-# 📖 راهنمای مرجع زبان برنامه‌نویسی HP
+# 📖 HP Programming Language Reference Guide
 
-**سینتکس فینگیلیش، قواعد فشرده، و مثال‌های عملی**
+**Finglish syntax, concise rules, and practical examples**
 
-HP یک زبان تفسیری کوچک با کلیدواژه‌های فینگیلیش مثل `Chap`، `Set`، `Agar`، `Vagarna`، `Loop`، `Baraye`، `Tabe` و `Bargard` است. این راهنما روی سینتکس قابل‌استفاده توسط کاربر تمرکز دارد و اصطلاحات را در سراسر متن یکدست نگه می‌دارد.
+HP is a small interpreted language with Finglish keywords such as `Chap`, `Set`, `Agar`, `Vagarna`, `Loop`, `Baraye`, `Tabe`, and `Bargard`. This guide focuses on user-facing syntax and keeps terminology consistent throughout the text.
 
-موتور زبان به‌صورت خودکار نوع داده‌های ساده را تشخیص می‌دهد: رشته، عدد صحیح، عدد اعشاری، بولی، null، درصد، آرایه، دیکشنری و تاریخ.
+The language engine automatically detects simple data types: string, integer, float, boolean, null, percentage, array, dictionary, and date.
 
-## جدول کلیدواژه‌ها
+## Keyword Table
 
-| کلیدواژه HP | معنی |
+| HP Keyword | Meaning |
 |---|---|
-| Chap | چاپ / خروجی |
-| Set | تعریف یا مقداردهی |
-| Agar / Vagarna | اگر / وگرنه |
-| Loop | حلقهٔ شرطی |
-| Baraye | حلقهٔ for |
-| Az / Ta / Gam / Dar | از / تا / گام / در |
-| Tabe | تابع |
-| Bargard | بازگشت |
-| Emtehan / Khata / Hamishe | تلاش / خطا / همیشه |
-| EzafeBe / HazfAz | افزودن / حذف |
-| Begir | ورودی |
-| Dorost / Ghalat / Hich | درست / غلط / هیچ |
-| Baghimande | باقیمانده |
-| ... | کامنت |
+| Chap | print / output |
+| Set | definition or assignment |
+| Agar / Vagarna | if / else |
+| Loop | conditional loop |
+| Baraye | for loop |
+| Az / Ta / Gam / Dar | from / to / step / in |
+| Tabe | function |
+| Bargard | return |
+| Emtehan / Khata / Hamishe | try / error / always |
+| EzafeBe / HazfAz | add / remove |
+| Begir | input |
+| Dorost / Ghalat / Hich | true / false / nothing |
+| Baghimande | remainder |
+| ... | comment |
 
-> نکته: شناسه‌ها می‌توانند فینگلیش نوشته شوند. بهتر است کلمات رزرو شده را همان فرم HP نگه دارید.
+> Note: Identifiers can be written in Finglish. It is better to keep reserved words in the same HP form.
 
-## ۱. متغیرها و مقدارها
+## ۱. Variables and Values
 
-با `Set` یک متغیر می‌سازید. اگر متغیر از قبل وجود داشته باشد، می‌توان آن را با `=` دوباره مقداردهی کرد.
+Use `Set` to create a variable. If the variable already exists, it can be assigned a new value again with `=`.
 
-رشته‌ها می‌توانند با نقل‌قول دوتایی یا تکی نوشته شوند. عددها، بولی، null و درصد هم پشتیبانی می‌شوند.
+Strings can be written with double or single quotation marks. Numbers, booleans, null, and percentages are also supported.
 
 ```hp
 Set name = "Amin"
@@ -89,11 +89,11 @@ Chap age
 Chap discount
 ```
 
-## ۲. آرایه‌ها و دیکشنری‌ها
+## ۲. Arrays and Dictionaries
 
-آرایه‌ها با کروشه نوشته می‌شوند. شماره‌گذاری اندیس‌ها از ۱ شروع می‌شود.
+Arrays are written with square brackets. Index numbering starts from 1.
 
-دیکشنری‌ها با `;` بین جفت‌ها و `:` بین کلید و مقدار نوشته می‌شوند.
+Dictionaries are written with `;` between pairs and `:` between the key and value.
 
 ```hp
 Set nums = [10, 20, 30, 40]
@@ -122,13 +122,13 @@ Chap user.values()
 Chap user.length()
 ```
 
-## ۳. تاریخ‌ها
+## ۳. Dates
 
-HP از تاریخ جلالی و میلادی پشتیبانی می‌کند.
+HP supports Jalali and Gregorian dates.
 
-برای تاریخ جلالی از `@YYYY/MM/DD` و برای میلادی از `@@YYYY/MM/DD` استفاده کنید.
+For a Jalali date use `@YYYY/MM/DD`, and for a Gregorian date use `@@YYYY/MM/DD`.
 
-مقدار ویژهٔ `@today` تاریخ فعلی را برمی‌گرداند.
+The special value `@today` returns the current date.
 
 ```hp
 Set today = @today
@@ -141,13 +141,13 @@ Chap d1.day()
 Chap d1 - d2
 ```
 
-## ۴. شرط‌ها و حلقه‌ها
+## ۴. Conditions and Loops
 
-بلاک‌های شرطی با `Agar` و `Vagarna` نوشته می‌شوند.
+Conditional blocks are written with `Agar` and `Vagarna`.
 
-`Loop` یک حلقهٔ شرط‌محور است.
+`Loop` is a condition-based loop.
 
-`Baraye` می‌تواند با بازه‌ها، آرایه‌ها، دیکشنری‌ها و رشته‌ها کار کند.
+`Baraye` can work with ranges, arrays, dictionaries, and strings.
 
 ```hp
 Agar score >= 90 {
@@ -179,13 +179,13 @@ Baraye item Dar [10, 20, 30] {
 }
 ```
 
-## ۵. تابع‌ها
+## ۵. Functions
 
-تابع‌ها با `Tabe` شروع می‌شوند و با `}f` بسته می‌شوند.
+Functions begin with `Tabe` and are closed with `}f`.
 
-پارامترها می‌توانند مقدار پیش‌فرض داشته باشند.
+Parameters can have default values.
 
-`Bargard` از تابع خارج می‌شود و می‌تواند مقدار هم برگرداند.
+`Bargard` exits the function and can also return a value.
 
 ```hp
 Tabe add(a, b) f{
@@ -209,13 +209,13 @@ Tabe factorial(n) f{
 }f
 ```
 
-## ۶. مدیریت خطا و ریاضی
+## ۶. Error Handling and Mathematics
 
-از `Emtehan`، `Khata` و `Hamishe` برای مدیریت خطا و پاک‌سازی استفاده می‌شود.
+Use `Emtehan`, `Khata`, and `Hamishe` for error handling and cleanup.
 
-موتور عبارت‌ها از محاسبهٔ ریاضی، مقایسه، فاکتوریل، قدر مطلق، توان، باقیمانده و چند تابع کمکی ریاضی پشتیبانی می‌کند.
+The expression engine supports mathematical calculation, comparison, factorial, absolute value, power, remainder, and several auxiliary mathematical functions.
 
-تابع‌های داخلی فعلی شامل `sqrt`، `int`، `float`، `str`، `bool` و `abs` هستند.
+Current built-in functions include `sqrt`, `int`, `float`, `str`, `bool`, and `abs`.
 
 ```hp
 Emtehan {
@@ -249,13 +249,13 @@ Chap bool(1)
 Chap abs(-5)
 ```
 
-## ۷. خروجی، ورودی، کامنت‌ها و کنترل جریان
+## ۷. Output, Input, Comments, and Flow Control
 
-`Chap` یک مقدار را در ترمینال چاپ می‌کند.
+`Chap` prints a value to the terminal.
 
-`Begir` ورودی کاربر را می‌خواند و می‌تواند متن راهنما هم داشته باشد.
+`Begir` reads user input and can also have a prompt.
 
-کامنت تک‌خطی در موتور فعلی با `...` نوشته می‌شود.
+A single-line comment in the current engine is written with `...`.
 
 ```hp
 Chap "Hello"
@@ -267,8 +267,8 @@ Chap "Hello " + name
 ```
 
 ```hp
-... این یک کامنت است! این خط نادیده گرفته می‌شود
-Chap "Visible output" ... این بخش هم نادیده گرفته می‌شود
+... This is a comment! This line is ignored
+Chap "Visible output" ... This part is ignored too
 ```
 
 ```hp
@@ -278,13 +278,13 @@ return
 return 42
 ```
 
-## ۸. قواعد عبارت‌ها
+## ۸. Expression Rules
 
-هرجا ترتیب اجرا مهم باشد، از پرانتز استفاده کنید.
+Whenever execution order matters, use parentheses.
 
-عملگرهای مقایسه شامل `==`، `!=`، `<`، `>`، `<=` و `>=` هستند.
+Comparison operators include `==`, `!=`, `<`, `>`, `<=`, and `>=`.
 
-رشته‌ها با `+` به هم وصل می‌شوند و ضرب رشته در عدد هم پشتیبانی می‌شود.
+Strings are concatenated with `+`, and multiplying a string by a number is also supported.
 
 ```hp
 Set result = (3 + 4) * 2
@@ -302,23 +302,23 @@ Chap 6 * 7
 Chap 15 / 3
 ```
 
-## جمع‌بندی
+## Summary
 
-HP برای سینتکس فینگیلیش ساخته شده و تمرکز آن روی سادگی، خوانایی و اجرای مستقیم است.
+HP was built for Finglish syntax, with a focus on simplicity, readability, and direct execution.
 
-قواعد اصلی که باید حفظ شوند عبارت‌اند از:
+The main rules that should be remembered are:
 
-- کلیدواژه‌های HP
-- مقداردهی با `Set`
-- چاپ با `Chap`
-- شرط با `Agar`
-- تابع با `Tabe`
-- بازگشت با `Bargard`
-- حلقه با `Loop` و `Baraye`
+- HP keywords
+- Assignment with `Set`
+- Printing with `Chap`
+- Condition with `Agar`
+- Function with `Tabe`
+- Return with `Bargard`
+- Loop with `Loop` and `Baraye`
 
-با همین قواعد می‌توان برنامه‌های کوتاه، خوانا و قابل‌گسترش نوشت.
+With these rules, short, readable, and extensible programs can be written...
 
-## 🖼 لوگو:
+## 🖼 Logo:
 
 <img src="https://imglink.cc/cdn/HE4Fl4b-Gd.png" alt="image" />
 
