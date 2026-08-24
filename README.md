@@ -1,3 +1,5 @@
+[![🇮🇷 View Persian README ✊🏻](https://img.shields.io/badge/🇮🇷_VIEW_PERSIAN_README_✊🏻-README--FA.md-00AEEF?style=for-the-badge&logo=readme&logoColor=white)](README-FA.md)
+
 ### 📌 Docs: [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/HP2000C/HP-Programming-Language) <img src="https://imglink.cc/cdn/gJwuYTIu4f.gif" width="20">
 <p align="center">
 <img src="https://img.shields.io/badge/Version-v1.0.0-blue?style=for-the-badge" />
