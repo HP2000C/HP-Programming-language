@@ -16,7 +16,7 @@
 #### ‼️ HP™ 2026 - 1405 ©
 
 ## 🔍 نمونه کُد ساده
-```
+```hp
 set name = "Hossein P."
 chap "Hello " + name
 ```
