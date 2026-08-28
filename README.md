@@ -16,7 +16,7 @@
 #### ‼️ HP™ 2026 - 1405 ©
 
 ## 🔍 Simple Code Example
-```
+```hp
 set name = "Hossein P."
 chap "Hello " + name
 ```
