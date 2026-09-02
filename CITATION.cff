@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+
+message: "If you use HP Programming Language, please cite it using the metadata from this file..."
+
+title: "HP Programming Language"
+
+type: software
+
+authors:
+  - given-names: "Hossein"
+    family-names: "P."
+    email: "Hossein.P.2013.1391@gmail.com"
+    website: "https://HP.pntr.dev"
+    orcid: "https://orcid.org/0009-0008-6061-1184"
+
+url: "https://HP.pntr.dev/HP-Programming-Language"
+
+repository: "https://github.com/HP2000C/HP-Programming-Language"
+
+license: "GPL-3.0-or-later"
