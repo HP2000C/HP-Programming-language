@@ -6,7 +6,7 @@
 
 ---
 
-# HP Enhancement Proposal System (HP EPS)
+# ✅ HP Enhancement Proposal System (HP EPS)
 
 ### 🧑🏻‍💻 The HP Programming Language Improvement Proposal System is the official platform for registering, reviewing, documenting, and managing proposals and standards related to the HP programming language!
 
@@ -52,5 +52,52 @@ This set of rules and standards defines the style and formatting for writing HP 
 ---
 ---
 
-## 🤫 به‌زودی... ✊🏻
-## 🤫 Coming Soon... ✊🏻
+## 🔢 شماره‌گذاری
+
+#### هر پیشنهاد یک شمارهٔ منحصربه‌فرد دارد...
+
+شمارهٔ یک دسته از 1 شروع می‌شود و با ایجاد پیشنهادهای جدید افزایش پیدا می‌کند.
+
+- مثال:
+```text
+HP CS 1
+HP CS 2
+HP CS 3
+...
+```
+
+---
+
+## 🔢 Numbering
+
+#### Each suggestion has a unique number...
+
+The category number starts at 1 and increases as new suggestions are created.
+
+- Example:
+```text
+HP CS 1
+HP CS 2
+HP CS 3
+...
+```
+
+---
+---
+
+## 📌 هدف HP EPS
+
+هدف HP EPS ایجاد یک مرجع رسمی و منظم برای توسعهٔ زبان برنامه‌نویسی HP است!
+
+---
+
+## 📌 HP EPS Goal
+
+The goal of HP EPS is to establish an official and organized reference for the development of the HP programming language!
+
+---
+---
+
+## 🗂 مرجع رسمی
+
+تمام پیشنهادهای HP EPS در [پوشه HP EPS مخزن زبان برنامه‌نویسی HP در GitHub](https://GitHub.com/HP2000C/HP-Programming-Language/HP-EPS) می‌شوند.
