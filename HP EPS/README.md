@@ -101,3 +101,9 @@ The goal of HP EPS is to establish an official and organized reference for the d
 ## 🗂 مرجع رسمی
 
 تمام پیشنهادهای HP EPS در [پوشه HP EPS مخزن زبان برنامه‌نویسی HP در GitHub](https://github.com/HP2000C/HP-Programming-language/tree/main/HP%20EPS) نگهداری می‌شوند.
+
+---
+
+## 🗂 Official Reference
+
+All HP EPS proposals are maintained in the [HP EPS folder within the HP programming language repository on GitHub](https://github.com/HP2000C/HP-Programming-language/tree/main/HP%20EPS).
