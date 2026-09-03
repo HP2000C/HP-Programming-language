@@ -66,6 +66,8 @@ HP CS 3
 ...
 ```
 
+> ممکن است زیر پوشه ها، شامل اعداد با شیوه 1.1، 1.2، 1.1.1 و... شوند!
+
 ---
 
 ## 🔢 Numbering
@@ -81,6 +83,8 @@ HP CS 2
 HP CS 3
 ...
 ```
+
+> Subfolders might include numbering such as 1.1, 1.2, 1.1.1, etc.
 
 ---
 ---
